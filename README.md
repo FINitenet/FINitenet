@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
+<p>Welcome to my page!</br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
 <h3>Things I code with<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p>
   <img alt="huggingface" src="https://img.shields.io/badge/LLM-From huggingface-plastic?style=flat-square&logo=pytorch&logoColor=white" />
@@ -34,7 +34,7 @@
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/FINitenet/renlab_qPCR_results_20230612"><b>Analysis tools for qPCR</b></a></td>
