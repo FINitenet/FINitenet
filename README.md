@@ -15,7 +15,7 @@
 
 <h3>My github stats </h3>
 
-![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINitenet)
 
 <h3>Open source projects</h3>
 <table>
