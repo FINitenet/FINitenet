@@ -2,12 +2,20 @@
 
 
 <p>Welcome to my page! </br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
-<h3>Things I code with</h3>
+<h3>Things I code with<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p>
+  <img alt="huggingface" src="https://img.shields.io/badge/LLM-From huggingface-plastic?style=flat-square&logo=pytorch&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-46a2f1?style=flat-square&logo=r&logoColor=white" />
+  <img alt="BASH" src="https://img.shields.io/badge/-BASH-46a2f1?style=flat-square&logo=linux&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
 </p>
+
+<h3>My github stats </h3>
+![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacklens)
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
@@ -45,14 +53,17 @@
   <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
   <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li> -->
 </ul>
-<h3>Weclome to Shanghai!</h3>
-<p><img width="200" src="https://github.com/FINitenet/FINitenet/IMG_6502.jpg" /> <img width="200" src="" /> <img width="200" src="" /></p>
-<p></a><br/>Currently, the weather is: <b> -5°C, <i>light snow</i></b></br>Today, the sun rises at <b>08:31</b> and sets at <b>15:22</b>.</p>
-<h3>Where to find me</h3>
-<p><a href="https://github.com/FINitenet/FINitenet/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-</p>
 
-------------
-<p align="center">This <i>README</i> file is generated <b>every 3 hours</b>!</br>Last refresh: Monday, 15 January, 04:01 CET<br /><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91">Create your own here!</a></p>
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/thmsgbrt?style=flat-square&labelColor=343b41"/></p>
+<p align="center">🎀 Contributions (<a href="https://github.com/FINitenet/FINitenet/" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+
+<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+</p>
+<p align="center">Made with ❤️ in India</p>
+
+<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+
+<p align="center">
+	</a><br/>Currently, the weather is: <b> -5°C, <i>light snow</i></b></br>Today, the sun rises at <b>08:31</b> and sets at <b>15:22</b>.
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
