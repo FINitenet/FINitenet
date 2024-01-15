@@ -17,6 +17,9 @@
 
 ![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINitenet)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
