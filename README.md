@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Yuchen, doctoral student from <b>FDU, SHANGHAI, CHINA</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
+<p>Welcome to my page! </br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
@@ -22,10 +22,10 @@
   <tbody>
     <tr>
       <td><a href="https://github.com/FINitenet/TRMRNAseqTools"><b>React PullToRefresh component</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/thmsgbrt/react-simple-pull-to-refresh?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
     </tr>
 	  <tr>
       <td><a href="https://github.com/FINitenet/renlab_qPCR_results_20230612"><b>Typescript & React Chrome Extension Starter</b></a></td>
