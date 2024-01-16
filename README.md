@@ -37,6 +37,15 @@
 ![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINitenet)
 
 <!--START_SECTION:waka-->
+
+```txt
+Python   3 hrs 15 mins   ███████████████████▒░░░░░   76.83 %
+Bash     20 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 %
+Other    18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Text     12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
+HTML     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
+```
+
 <!--END_SECTION:waka-->
 
 <h3>Open source projects</h3>
