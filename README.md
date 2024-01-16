@@ -36,6 +36,7 @@
 
 ![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINitenet)
 
+<h3>This week i spent my time on： </h3>
 <!--START_SECTION:waka-->
 
 ```txt
