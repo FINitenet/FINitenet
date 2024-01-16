@@ -87,7 +87,6 @@
 <h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
 
 <p align="center">
-	</a><br/>Currently, the weather is: <b> -5°C, <i>light snow</i></b></br>Today, the sun rises at <b>08:31</b> and sets at <b>15:22</b>.
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
 </p>
 
