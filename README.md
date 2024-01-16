@@ -1,8 +1,7 @@
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h3>
+<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.<img src="https://visitor-badge.glitch.me/badge?page_id=FINitenet" /> </h3>
 
 **Welcome to my page!**
 </br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
-
 
 <h3>Things I code with<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 <p>
