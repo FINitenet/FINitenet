@@ -68,12 +68,19 @@ Bash        16 mins         ▒░░░░░░░░░░░░░░░░�
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
     </tr>
-	  <tr>
+    <tr>
       <td><a href="https://github.com/FINitenet/renlab_qPCR_results_20230612"><b>Analysis tools for qPCR</b></a></td>
       <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/FINitenet/renlab_tailing_trimming_20240111"><b>Analysis tools for miRNA tailing and trimming</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
