@@ -40,9 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-R      15 mins         ████████████▓░░░░░░░░░░░░   50.46 %
-TSV    12 mins         ██████████▓░░░░░░░░░░░░░░   42.84 %
-Bash   2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
