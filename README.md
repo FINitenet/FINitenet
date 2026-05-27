@@ -40,10 +40,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-JSON       17 mins               ████████████░░░░░░░░░░░░░   48.66 %
-Markdown   9 mins                ███████░░░░░░░░░░░░░░░░░░   27.52 %
-Other      6 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.14 %
-Python     2 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
