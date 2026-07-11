@@ -1,104 +1,313 @@
-<h3><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.<img src="https://visitor-badge.glitch.me/badge?page_id=FINitenet" /> </h3>
+```markdown
+<div align="center">
 
-**Welcome to my page!**
-</br> I'm Yuchen, doctoral student from <b>SKLGE, FDU</b>, currently living in <b>SHANGHAI, CHINA</b>. </p>
+<img src="./assets/banner.png" width="100%" alt="Yuchen Cai GitHub profile banner">
 
-<h3>Things I code with<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+# Yuchen Cai
+
+### RNA Biology · Computational Genomics · AI for Science
+
+Developing computational methods and biological foundation models  
+for understanding RNA regulation and complex biological systems.
+
 <p>
-  <img alt="huggingface" src="https://img.shields.io/badge/LLM-From huggingface-plastic?style=flat-square&logo=pytorch&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-46a2f1?style=flat-square&logo=python&logoColor=white" />
-  <img alt="R" src="https://img.shields.io/badge/-R-46a2f1?style=flat-square&logo=r&logoColor=white" />
-  <img alt="BASH" src="https://img.shields.io/badge/-BASH-46a2f1?style=flat-square&logo=linux&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <a href="https://github.com/FINitenet">
+    <img src="https://img.shields.io/badge/GitHub-FINitenet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="YOUR_GOOGLE_SCHOLAR_URL">
+    <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
+  </a>
+  <a href="https://orcid.org/YOUR-ORCID-ID">
+    <img src="https://img.shields.io/badge/ORCID-YOUR--ORCID--ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="mailto:YOUR_EMAIL@fudan.edu.cn">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-**Languages and Frameworks**
+</div>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R" title="R"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png" alt="R" title="R"></code>
+---
 
-**Tools and Environments**
+## About Me
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VSCode" title="VSCode"></code>
-<code><img height="20" src="https://images.nowcoder.com/images/20180629/0_1530258305740_67F7BB46DE9FC78164CA628F2CE05C37" alt="PyCharm" title="PyCharm"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png" alt="Vim" title="Vim"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/markdown/markdown.png" alt="Markdown" title="MarkDown"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png" alt="Ubuntu" title="Ubuntu"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png" alt="MacOS" title="MacOS"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png" alt="windows" title="windows"></code>
-    
-<br>
+I am a Ph.D. researcher at the **State Key Laboratory of Genetic Engineering, Fudan University**.
 
-<h3>My github stats </h3>
+My research lies at the intersection of **RNA biology**, **computational genomics**, and **AI for Science**. I develop computational frameworks and machine-learning methods to study small RNA biogenesis, miRNA annotation, RNA regulation, and multi-omics biological systems.
 
-![Yuchen's GitHub stats](https://github-readme-stats.vercel.app/api?username=FINitenet)
+My recent work also explores biological foundation models, multimodal representation learning, and AI-assisted discovery in RNA biology.
 
-<h3>This week i spent my time on </h3>
-<!--START_SECTION:waka-->
+- 🎓 Ph.D. in Genetics and Bioinformatics
+- 📍 Shanghai, China
+- 🌱 Focused on plant small RNA biology and computational genomics
+- 🤖 Interested in biological foundation models and multimodal learning
+- 💊 Exploring RNA therapeutics and AI-guided molecular discovery
+- 🤝 Open to research collaborations and postdoctoral opportunities
 
-```txt
-No activity tracked
-```
+---
 
-<!--END_SECTION:waka-->
+## Research Interests
 
-<h3>Open source projects</h3>
 <table>
-  <thead align="center">
-    <tr border: none;>
-      <td><b>🎁 Projects</b></td>
-      <td><b>⭐ Stars</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/FINitenet/TRMRNAseqTools"><b>TRMRNA-seq Analysis Tools for plant smallRNA seq</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/TRMRNAseqTools?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/FINitenet/renlab_qPCR_results_20230612"><b>Analysis tools for qPCR</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/renlab_qPCR_results_20230612?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/FINitenet/renlab_tailing_trimming_20240111"><b>Analysis tools for miRNA tailing and trimming</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/FINitenet/renlab_tailing_trimming_20240111?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
+  <tr>
+    <td align="center" width="14%">
+      <b>RNA Biology</b><br>
+      RNA regulation and processing
+    </td>
+    <td align="center" width="14%">
+      <b>Small RNA</b><br>
+      miRNA and siRNA biology
+    </td>
+    <td align="center" width="14%">
+      <b>Computational Genomics</b><br>
+      Sequencing and omics analysis
+    </td>
+    <td align="center" width="14%">
+      <b>AI for Science</b><br>
+      Machine learning for biology
+    </td>
+    <td align="center" width="14%">
+      <b>Foundation Models</b><br>
+      Biological representation learning
+    </td>
+    <td align="center" width="14%">
+      <b>Multi-omics</b><br>
+      Cross-omics integration
+    </td>
+    <td align="center" width="14%">
+      <b>RNA Therapeutics</b><br>
+      ASO, siRNA and RNA design
+    </td>
+  </tr>
 </table>
-<h3>My latest posts</h3>
-<ul>
-<!--   <li><a href="https://medium.com/better-programming/create-your-first-ethereum-smart-contract-with-remix-ide-667e46e81901"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> Create Your First Ethereum Smart Contract With Remix IDE</b></a><br/><i>Build a Blockchain-powered chat from your browser!.</i></li>
-  <li><a href="https://medium.com/@th.guibert/how-to-create-a-self-updating-readme-md-for-your-github-profile-f8b05744ca91"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How to Create a Self-Updating README.md for Your GitHub Profile</b></a><br/><i>A good tutorial to do your first steps with GitHub Actions</i></li>
-    <li><a href="https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98"><b><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> How You Should Structure Your React Applications</b></a><br/><i>A matter of taste, sure, but here is an approach that scales.</i></li>
-  <li><a href="https://medium.com/better-programming/pro-tips-to-help-you-get-started-with-your-side-project-15d01b76e0d8"><b>Pro Tips to Help You Get Started With Your Side Project</b></a><br/><i>Begin with solid foundations to keep the excitement kicking in...</i></li>
-  <li><a href="https://medium.com/better-programming/how-to-take-care-of-your-personal-branding-as-a-programmer-2d3aeba56cb9"><b>How to Take Care of Your Personal Branding as a Programmer</b></a><br/><i>It’s more than just refreshing your resume</i></li>
-  <li><a href="https://medium.com/better-programming/8-new-features-shipping-with-es2020-7a2721f710fb"><b>7 New Features Shipping With ES2020</b></a><br/><i>GlobalThis, optional chaining, private fields in classes, the nullish coalescing operator, and more</i></li> -->
-</ul>
 
-<p align="center">🎀 Contributions (<a href="https://github.com/FINitenet/FINitenet/" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
+---
 
-<p align="center">💙 If you like my projects, Give them ⭐ and Share it with friends!</p>
+## Research Timeline
+
+### 2019–2026 · Ph.D. Researcher, Fudan University
+
+- Developed computational frameworks for plant small RNA analysis
+- Investigated miRNA biogenesis, annotation, and classification
+- Integrated mutant-derived genetic evidence with sequencing data
+- Built machine-learning models for high-confidence miRNA identification
+- Studied miRNA tailing, trimming, turnover, and RNA-end modifications
+- Participated in biological foundation-model benchmarking projects
+- Explored multimodal learning across DNA, RNA, protein, and omics data
+
+### Current and Future Directions
+
+- AI models for RNA biology
+- Biological foundation models
+- Multi-omics representation learning
+- RNA therapeutics and molecular design
+- AI-guided biological discovery
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌱 PSAF
+
+**Plant Small RNA Analysis Framework**
+
+A computational framework for the annotation, quantification, classification, and evaluation of plant small RNAs.
+
+Key features include:
+
+- Hierarchical small RNA annotation
+- Multi-mapping read assignment
+- Mutant-informed genetic evidence
+- miRNA processing evaluation
+- Cross-sample quality control
+- Reproducible downstream analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 TRMRNAseqTools
+
+**Tailing and Trimming Analysis for Small RNA-seq**
+
+A toolkit for studying miRNA terminal modifications and small RNA sequencing data.
+
+Key features include:
+
+- miRNA tailing analysis
+- miRNA trimming analysis
+- Length-distribution profiling
+- Sequence variation analysis
+- Publication-ready visualization
+- Batch-processing workflows
+
+[View repository](https://github.com/FINitenet/TRMRNAseqTools)
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 BEACON
+
+**Benchmark for Biological Foundation Models**
+
+A benchmarking framework for evaluating biological foundation models across diverse biological tasks and data modalities.
+
+Research topics include:
+
+- DNA, RNA, and protein models
+- Cross-domain model comparison
+- Task-level benchmarking
+- Representation quality evaluation
+- Model generalization analysis
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 COMET
+
+**Cross-Omics Model Evaluation and Transfer**
+
+A benchmark for evaluating multimodal biological models across heterogeneous omics datasets.
+
+Research topics include:
+
+- Cross-omics transfer learning
+- Multimodal representation learning
+- Biological vocabulary initialization
+- Model robustness and generalization
+- Foundation-model evaluation
+
+</td>
+</tr>
+</table>
+
+---
+
+## Selected Publications and Research
+
+1. **BEACON: Benchmark for Comprehensive Evaluation of Biological Foundation Models**  
+   Yuchen Cai et al.  
+   *Manuscript / preprint information to be updated.*
+
+2. **COMET: Cross-Omics Benchmark for Multimodal Biological Foundation Models**  
+   Yuchen Cai et al.  
+   *Manuscript / preprint information to be updated.*
+
+3. **Accurate Annotation of Plant miRNAs Using Mutant-Informed Computational Analysis**  
+   Yuchen Cai et al.  
+   *Manuscript in preparation.*
+
+4. **Analysis of miRNA Tailing, Trimming, and RNA-End Modifications in Plants**  
+   Yuchen Cai et al.  
+   *Research project.*
+
+> Publication titles, author order, journal information, and links should be updated according to the final published records.
+
+---
+
+## Technical Skills
+
+### Programming Languages
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL">
 </p>
-<p align="center">Made with ❤️ in China</p>
 
-<h1 align='center'>⚡️<i>Stay awesome!</i>⚡️</h1>
+### Machine Learning and AI
 
-<p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face">
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=flat-square" alt="Transformers">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
+  <img src="https://img.shields.io/badge/Lightning-792EE5?style=flat-square&logo=lightning&logoColor=white" alt="Lightning">
 </p>
 
+### Bioinformatics
+
+<p>
+  <img src="https://img.shields.io/badge/Bioconductor-3F5AA9?style=flat-square" alt="Bioconductor">
+  <img src="https://img.shields.io/badge/Nextflow-23B57B?style=flat-square&logo=nextflow&logoColor=white" alt="Nextflow">
+  <img src="https://img.shields.io/badge/Snakemake-039475?style=flat-square" alt="Snakemake">
+  <img src="https://img.shields.io/badge/SAMtools-000000?style=flat-square" alt="SAMtools">
+  <img src="https://img.shields.io/badge/BCFtools-4D4D4D?style=flat-square" alt="BCFtools">
+  <img src="https://img.shields.io/badge/DESeq2-1E6B52?style=flat-square" alt="DESeq2">
+  <img src="https://img.shields.io/badge/deepTools-00599C?style=flat-square" alt="deepTools">
+  <img src="https://img.shields.io/badge/ViennaRNA-8A2BE2?style=flat-square" alt="ViennaRNA">
+</p>
+
+### Development and Environments
+
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code">
+  <img src="https://img.shields.io/badge/Vim-019733?style=flat-square&logo=vim&logoColor=white" alt="Vim">
+</p>
+
+---
+
+## Open-Source Projects
+
+| Project | Description | Stars | Forks |
+|---|---|---:|---:|
+| [TRMRNAseqTools](https://github.com/FINitenet/TRMRNAseqTools) | Tools for plant small RNA-seq, miRNA tailing, trimming, and downstream analysis | ![Stars](https://img.shields.io/github/stars/FINitenet/TRMRNAseqTools?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/TRMRNAseqTools?style=flat-square) |
+| [qPCR Analysis](https://github.com/FINitenet/renlab_qPCR_results_20230612) | Reproducible analysis and visualization workflows for qPCR data | ![Stars](https://img.shields.io/github/stars/FINitenet/renlab_qPCR_results_20230612?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/renlab_qPCR_results_20230612?style=flat-square) |
+| [miRNA Tailing and Trimming](https://github.com/FINitenet/renlab_tailing_trimming_20240111) | Analysis workflows for miRNA terminal modifications | ![Stars](https://img.shields.io/github/stars/FINitenet/renlab_tailing_trimming_20240111?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/renlab_tailing_trimming_20240111?style=flat-square) |
+
+---
+
+## GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=FINitenet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Yuchen's GitHub statistics">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FINitenet&layout=compact&hide_border=true&langs_count=8" alt="Most used languages">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FINitenet&hide_border=true" alt="GitHub streak">
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FINitenet&theme=default" width="95%" alt="GitHub contribution summary">
+
+</div>
+
+---
+
+## Contact
+
+- **Email:** [YOUR_EMAIL@fudan.edu.cn](mailto:YOUR_EMAIL@fudan.edu.cn)
+- **GitHub:** [github.com/FINitenet](https://github.com/FINitenet)
+- **Google Scholar:** [Add your Google Scholar profile](YOUR_GOOGLE_SCHOLAR_URL)
+- **ORCID:** [YOUR-ORCID-ID](https://orcid.org/YOUR-ORCID-ID)
+- **Institution:** State Key Laboratory of Genetic Engineering, Fudan University
+- **Location:** Shanghai, China
+
+---
+
+<div align="center">
+
+### RNA Biology × Computational Genomics × AI for Science
+
+Thanks for visiting.
+
+</div>
+```
