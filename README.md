@@ -229,19 +229,14 @@ RNA Modification · Small RNA · Sequencing Analysis
 
 ## GitHub Statistics
 
-<div align="center">
+<p align="center">
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FINitenet&show_icons=true&hide_border=true"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=FINitenet&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" alt="Yuchen's GitHub statistics">
+<img height="170"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FINitenet&layout=compact&hide_border=true"/>
+</p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FINitenet&layout=compact&hide_border=true&langs_count=8" alt="Most used languages">
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=FINitenet&hide_border=true" alt="GitHub streak">
-
-</div>
 
 <div align="center">
 
