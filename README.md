@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Yuchen Cai GitHub profile banner">
+<img src="banner.png" width="100%" alt="Yuchen Cai GitHub profile banner">
 
 # Yuchen Cai
 
