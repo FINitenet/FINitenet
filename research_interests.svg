@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="620" viewBox="0 0 1600 620" role="img" aria-labelledby="title desc">
+  <title id="title">Research Interests</title>
+  <desc id="desc">Research interests in RNA biology, small RNA, computational genomics, AI for Science, foundation models, multi-omics, and RNA therapeutics.</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f8fbff"/>
+      <stop offset="100%" stop-color="#ffffff"/>
+    </linearGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#1e293b" flood-opacity="0.10"/>
+    </filter>
+
+    <style>
+      .title { font: 700 46px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #172033; }
+      .subtitle { font: 400 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #59667d; }
+      .card-title { font: 700 24px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; }
+      .card-text { font: 400 19px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #334155; }
+      .icon { font: 700 34px -apple-system, BlinkMacSystemFont, "Segoe UI Emoji", "Apple Color Emoji", sans-serif; }
+      .footer { font: 500 20px -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; fill: #41506a; }
+    </style>
+  </defs>
+
+  <rect width="1600" height="620" fill="url(#bg)"/>
+
+  <text x="54" y="72" class="title">Research Interests</text>
+  <rect x="54" y="96" width="78" height="4" rx="2" fill="#4f7cff"/>
+  <line x1="150" y1="98" x2="1546" y2="98" stroke="#dbe4f0" stroke-width="2"/>
+
+  <text x="54" y="145" class="subtitle">
+    My research focuses on the intersection of RNA biology, computational genomics, and AI for Science.
+  </text>
+
+  <!-- Card 1 -->
+  <g filter="url(#shadow)">
+    <rect x="54" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#e6defb" stroke-width="2"/>
+    <circle cx="153" cy="252" r="42" fill="#f1eaff"/>
+    <text x="153" y="264" text-anchor="middle" class="icon" fill="#7c3aed">🧬</text>
+    <text x="153" y="337" text-anchor="middle" class="card-title" fill="#6d28d9">RNA Biology</text>
+    <rect x="128" y="354" width="50" height="4" rx="2" fill="#7c3aed"/>
+    <text x="153" y="396" text-anchor="middle" class="card-text">
+      <tspan x="153" dy="0">RNA regulation</tspan>
+      <tspan x="153" dy="30">and processing</tspan>
+      <tspan x="153" dy="30">mechanisms</tspan>
+    </text>
+  </g>
+
+  <!-- Card 2 -->
+  <g filter="url(#shadow)">
+    <rect x="274" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#dcefd8" stroke-width="2"/>
+    <circle cx="373" cy="252" r="42" fill="#edf9ea"/>
+    <text x="373" y="264" text-anchor="middle" class="icon" fill="#16a34a">🌱</text>
+    <text x="373" y="337" text-anchor="middle" class="card-title" fill="#16a34a">Small RNA</text>
+    <rect x="348" y="354" width="50" height="4" rx="2" fill="#22c55e"/>
+    <text x="373" y="396" text-anchor="middle" class="card-text">
+      <tspan x="373" dy="0">miRNA and</tspan>
+      <tspan x="373" dy="30">siRNA biology</tspan>
+    </text>
+  </g>
+
+  <!-- Card 3 -->
+  <g filter="url(#shadow)">
+    <rect x="494" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#dbe6fb" stroke-width="2"/>
+    <circle cx="593" cy="252" r="42" fill="#eaf1ff"/>
+    <text x="593" y="264" text-anchor="middle" class="icon" fill="#2563eb">💻</text>
+    <text x="593" y="325" text-anchor="middle" class="card-title" fill="#1d4ed8">
+      <tspan x="593" dy="0">Computational</tspan>
+      <tspan x="593" dy="28">Genomics</tspan>
+    </text>
+    <rect x="568" y="370" width="50" height="4" rx="2" fill="#2563eb"/>
+    <text x="593" y="410" text-anchor="middle" class="card-text">
+      <tspan x="593" dy="0">Sequencing and</tspan>
+      <tspan x="593" dy="30">omics analysis</tspan>
+    </text>
+  </g>
+
+  <!-- Card 4 -->
+  <g filter="url(#shadow)">
+    <rect x="714" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#f7dfce" stroke-width="2"/>
+    <circle cx="813" cy="252" r="42" fill="#fff0e6"/>
+    <text x="813" y="264" text-anchor="middle" class="icon" fill="#ea580c">🤖</text>
+    <text x="813" y="337" text-anchor="middle" class="card-title" fill="#ea580c">AI for Science</text>
+    <rect x="788" y="354" width="50" height="4" rx="2" fill="#f97316"/>
+    <text x="813" y="396" text-anchor="middle" class="card-text">
+      <tspan x="813" dy="0">Machine learning</tspan>
+      <tspan x="813" dy="30">for biology</tspan>
+    </text>
+  </g>
+
+  <!-- Card 5 -->
+  <g filter="url(#shadow)">
+    <rect x="934" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#e8def6" stroke-width="2"/>
+    <circle cx="1033" cy="252" r="42" fill="#f1e9fb"/>
+    <text x="1033" y="264" text-anchor="middle" class="icon" fill="#9333ea">🧠</text>
+    <text x="1033" y="325" text-anchor="middle" class="card-title" fill="#7e22ce">
+      <tspan x="1033" dy="0">Foundation</tspan>
+      <tspan x="1033" dy="28">Models</tspan>
+    </text>
+    <rect x="1008" y="370" width="50" height="4" rx="2" fill="#9333ea"/>
+    <text x="1033" y="410" text-anchor="middle" class="card-text">
+      <tspan x="1033" dy="0">Biological</tspan>
+      <tspan x="1033" dy="30">representation</tspan>
+      <tspan x="1033" dy="30">learning</tspan>
+    </text>
+  </g>
+
+  <!-- Card 6 -->
+  <g filter="url(#shadow)">
+    <rect x="1154" y="190" width="198" height="300" rx="22" fill="#ffffff" stroke="#d7eef1" stroke-width="2"/>
+    <circle cx="1253" cy="252" r="42" fill="#e7f8fa"/>
+    <text x="1253" y="264" text-anchor="middle" class="icon" fill="#0891b2">📊</text>
+    <text x="1253" y="337" text-anchor="middle" class="card-title" fill="#0891b2">Multi-omics</text>
+    <rect x="1228" y="354" width="50" height="4" rx="2" fill="#06b6d4"/>
+    <text x="1253" y="396" text-anchor="middle" class="card-text">
+      <tspan x="1253" dy="0">Cross-omics</tspan>
+      <tspan x="1253" dy="30">integration and</tspan>
+      <tspan x="1253" dy="30">analysis</tspan>
+    </text>
+  </g>
+
+  <!-- Card 7 -->
+  <g filter="url(#shadow)">
+    <rect x="1374" y="190" width="172" height="300" rx="22" fill="#ffffff" stroke="#f5d7e7" stroke-width="2"/>
+    <circle cx="1460" cy="252" r="42" fill="#fdebf4"/>
+    <text x="1460" y="264" text-anchor="middle" class="icon" fill="#db2777">💊</text>
+    <text x="1460" y="325" text-anchor="middle" class="card-title" fill="#db2777">
+      <tspan x="1460" dy="0">RNA</tspan>
+      <tspan x="1460" dy="28">Therapeutics</tspan>
+    </text>
+    <rect x="1435" y="370" width="50" height="4" rx="2" fill="#ec4899"/>
+    <text x="1460" y="410" text-anchor="middle" class="card-text">
+      <tspan x="1460" dy="0">ASO, siRNA</tspan>
+      <tspan x="1460" dy="30">and RNA design</tspan>
+    </text>
+  </g>
+
+  <rect x="54" y="530" width="1492" height="54" rx="16" fill="#f6f8ff" stroke="#dfe5ff" stroke-width="2"/>
+  <text x="88" y="565" class="footer">💡 Combining biological insight with computational and AI approaches to decode RNA regulation and enable discovery.</text>
+</svg>
