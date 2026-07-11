@@ -14,13 +14,13 @@ for understanding RNA regulation and complex biological systems.
   <a href="https://github.com/FINitenet">
     <img src="https://img.shields.io/badge/GitHub-FINitenet-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="YOUR_GOOGLE_SCHOLAR_URL">
+  <!-- <a href="YOUR_GOOGLE_SCHOLAR_URL">
     <img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
   <a href="https://orcid.org/YOUR-ORCID-ID">
     <img src="https://img.shields.io/badge/ORCID-YOUR--ORCID--ID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
-  </a>
-  <a href="mailto:YOUR_EMAIL@fudan.edu.cn">
+  </a> -->
+  <a href="yccai19@fudan.edu.cn">
     <img src="https://img.shields.io/badge/Email-Contact_Me-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
