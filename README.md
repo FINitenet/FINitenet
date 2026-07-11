@@ -73,10 +73,6 @@ My recent work also explores biological foundation models, multimodal representa
 
 ## Featured Projects
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
 ## Selected Research Experience
 
 ### 🌱 PSAF: Plant Small RNA Analysis Framework
@@ -228,8 +224,6 @@ RNA Modification · Small RNA · Sequencing Analysis
 - **GitHub:** [github.com/FINitenet](https://github.com/FINitenet)
 - **Institution:** State Key Laboratory of Genetic Engineering, Fudan University
 - **Location:** Shanghai, China
-
----
 
 <div align="center">
 
