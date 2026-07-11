@@ -48,39 +48,9 @@ My recent work also explores biological foundation models, multimodal representa
 
 ## Research Interests
 
-<table>
-  <tr>
-    <td align="center" width="14%">
-      <b>RNA Biology</b><br>
-      RNA regulation and processing
-    </td>
-    <td align="center" width="14%">
-      <b>Small RNA</b><br>
-      miRNA and siRNA biology
-    </td>
-    <td align="center" width="14%">
-      <b>Computational Genomics</b><br>
-      Sequencing and omics analysis
-    </td>
-    <td align="center" width="14%">
-      <b>AI for Science</b><br>
-      Machine learning for biology
-    </td>
-    <td align="center" width="14%">
-      <b>Foundation Models</b><br>
-      Biological representation learning
-    </td>
-    <td align="center" width="14%">
-      <b>Multi-omics</b><br>
-      Cross-omics integration
-    </td>
-    <td align="center" width="14%">
-      <b>RNA Therapeutics</b><br>
-      ASO, siRNA and RNA design
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="research_interests.svg" width="100%" alt="Research Interests">
+</p>
 ---
 
 ## Research Timeline
