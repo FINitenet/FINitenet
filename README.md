@@ -287,7 +287,7 @@ RNA Modification · Small RNA · Sequencing Analysis
 
 ## Contact
 
-- **Email:** [YOUR_EMAIL@fudan.edu.cn](yccai19@fudan.edu.cn)
+- **Email:** [fudan.edu.cn](yccai19@fudan.edu.cn)
 - **GitHub:** [github.com/FINitenet](https://github.com/FINitenet)
 - **Institution:** State Key Laboratory of Genetic Engineering, Fudan University
 - **Location:** Shanghai, China
