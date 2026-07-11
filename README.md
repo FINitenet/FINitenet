@@ -46,8 +46,6 @@ My recent work also explores biological foundation models, multimodal representa
 
 ---
 
-## Research Interests
-
 <p align="center">
   <img src="research_interests.svg" width="100%" alt="Research Interests">
 </p>
