@@ -45,11 +45,9 @@ My recent work also explores biological foundation models, multimodal representa
 - 🤝 Open to research collaborations and postdoctoral opportunities
 
 ---
-
 <p align="center">
   <img src="research_interests.svg" width="100%" alt="Research Interests">
 </p>
----
 
 ## Research Timeline
 
