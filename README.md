@@ -111,104 +111,96 @@ My recent work also explores biological foundation models, multimodal representa
 <tr>
 <td width="50%" valign="top">
 
-### 🌱 PSAF
+## Selected Research Experience
 
-**Plant Small RNA Analysis Framework**
+### 🌱 PSAF: Plant Small RNA Analysis Framework
 
-A computational framework for the annotation, quantification, classification, and evaluation of plant small RNAs.
+**Lead Developer | Ph.D. Research**
 
-Key features include:
+Developed a comprehensive computational framework for plant small RNA analysis.
 
-- Hierarchical small RNA annotation
-- Multi-mapping read assignment
-- Mutant-informed genetic evidence
-- miRNA processing evaluation
-- Cross-sample quality control
-- Reproducible downstream analysis
+Highlights
 
-</td>
-<td width="50%" valign="top">
+- Built hierarchical annotation pipelines for plant small RNAs
+- Designed novel multi-mapping assignment strategy
+- Integrated mutant-derived genetic evidence
+- Developed machine-learning model for miRNA identification
+- Applied framework to re-annotate Arabidopsis and tomato miRNAs
 
-### 🧬 TRMRNAseqTools
+**Keywords**
 
-**Tailing and Trimming Analysis for Small RNA-seq**
-
-A toolkit for studying miRNA terminal modifications and small RNA sequencing data.
-
-Key features include:
-
-- miRNA tailing analysis
-- miRNA trimming analysis
-- Length-distribution profiling
-- Sequence variation analysis
-- Publication-ready visualization
-- Batch-processing workflows
-
-[View repository](https://github.com/FINitenet/TRMRNAseqTools)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 BEACON
-
-**Benchmark for Biological Foundation Models**
-
-A benchmarking framework for evaluating biological foundation models across diverse biological tasks and data modalities.
-
-Research topics include:
-
-- DNA, RNA, and protein models
-- Cross-domain model comparison
-- Task-level benchmarking
-- Representation quality evaluation
-- Model generalization analysis
-
-</td>
-<td width="50%" valign="top">
-
-### 🚀 COMET
-
-**Cross-Omics Model Evaluation and Transfer**
-
-A benchmark for evaluating multimodal biological models across heterogeneous omics datasets.
-
-Research topics include:
-
-- Cross-omics transfer learning
-- Multimodal representation learning
-- Biological vocabulary initialization
-- Model robustness and generalization
-- Foundation-model evaluation
-
-</td>
-</tr>
-</table>
+Plant small RNA · miRNA · RNA-seq · Bioinformatics · Machine Learning
 
 ---
 
-## Selected Publications and Research
+### 🧬 BEACON
 
-1. **BEACON: Benchmark for Comprehensive Evaluation of Biological Foundation Models**  
-   Yuchen Cai et al.  
-   *Manuscript / preprint information to be updated.*
+**Comprehensive RNA Foundation Model Benchmark**
 
-2. **COMET: Cross-Omics Benchmark for Multimodal Biological Foundation Models**  
-   Yuchen Cai et al.  
-   *Manuscript / preprint information to be updated.*
+Designed and implemented benchmark tasks for RNA language models.
 
-3. **Accurate Annotation of Plant miRNAs Using Mutant-Informed Computational Analysis**  
-   Yuchen Cai et al.  
-   *Manuscript in preparation.*
+Highlights
 
-4. **Analysis of miRNA Tailing, Trimming, and RNA-End Modifications in Plants**  
-   Yuchen Cai et al.  
-   *Research project.*
+- Curated 13 downstream RNA tasks
+- Evaluated state-of-the-art RNA foundation models
+- Developed unified evaluation pipeline
+- Participated in benchmark implementation and analysis
 
-> Publication titles, author order, journal information, and links should be updated according to the final published records.
+**Keywords**
 
+RNA Foundation Models · Benchmark · Deep Learning · AI for Biology
+
+---
+
+### 🚀 COMET
+
+**Cross-Omics Biological Foundation Model Benchmark**
+
+Contributed to the first benchmark spanning DNA, RNA and proteins.
+
+Highlights
+
+- Constructed multi-omics benchmark datasets
+- Implemented evaluation pipelines
+- Investigated cross-omics transfer learning
+- Compared biological foundation models across omics
+
+**Keywords**
+
+Multi-omics · Foundation Models · Representation Learning
+
+---
+
+### 🧬 miRNA Annotation and Classification
+
+Developed computational approaches for high-confidence plant miRNA annotation.
+
+Highlights
+
+- Re-annotated Arabidopsis miRNAs
+- Constructed mutant-informed scoring system
+- Developed miRClass classifier
+- Evaluated multiple existing prediction tools
+
+**Keywords**
+
+miRNA · RNA Biology · Plant Biology · Computational Genomics
+
+---
+
+### 🧪 miRNA Tailing and Trimming Analysis
+
+Developed analysis pipelines for RNA terminal modification studies.
+
+Highlights
+
+- Built automated analysis workflow
+- Characterized miRNA tailing/trimming patterns
+- Integrated visualization and downstream analysis
+
+**Keywords**
+
+RNA Modification · Small RNA · Sequencing Analysis
 ---
 
 ## Technical Skills
@@ -294,10 +286,8 @@ Research topics include:
 
 ## Contact
 
-- **Email:** [YOUR_EMAIL@fudan.edu.cn](mailto:YOUR_EMAIL@fudan.edu.cn)
+- **Email:** [YOUR_EMAIL@fudan.edu.cn](yccai19@fudan.edu.cn)
 - **GitHub:** [github.com/FINitenet](https://github.com/FINitenet)
-- **Google Scholar:** [Add your Google Scholar profile](YOUR_GOOGLE_SCHOLAR_URL)
-- **ORCID:** [YOUR-ORCID-ID](https://orcid.org/YOUR-ORCID-ID)
 - **Institution:** State Key Laboratory of Genetic Engineering, Fudan University
 - **Location:** Shanghai, China
 
