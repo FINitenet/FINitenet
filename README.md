@@ -217,16 +217,6 @@ RNA Modification · Small RNA · Sequencing Analysis
 
 ---
 
-## Open-Source Projects
-
-| Project | Description | Stars | Forks |
-|---|---|---:|---:|
-| [TRMRNAseqTools](https://github.com/FINitenet/TRMRNAseqTools) | Tools for plant small RNA-seq, miRNA tailing, trimming, and downstream analysis | ![Stars](https://img.shields.io/github/stars/FINitenet/TRMRNAseqTools?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/TRMRNAseqTools?style=flat-square) |
-| [qPCR Analysis](https://github.com/FINitenet/renlab_qPCR_results_20230612) | Reproducible analysis and visualization workflows for qPCR data | ![Stars](https://img.shields.io/github/stars/FINitenet/renlab_qPCR_results_20230612?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/renlab_qPCR_results_20230612?style=flat-square) |
-| [miRNA Tailing and Trimming](https://github.com/FINitenet/renlab_tailing_trimming_20240111) | Analysis workflows for miRNA terminal modifications | ![Stars](https://img.shields.io/github/stars/FINitenet/renlab_tailing_trimming_20240111?style=flat-square) | ![Forks](https://img.shields.io/github/forks/FINitenet/renlab_tailing_trimming_20240111?style=flat-square) |
-
----
-
 ## GitHub Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FINitenet&theme=github"/>
