@@ -229,22 +229,8 @@ RNA Modification · Small RNA · Sequencing Analysis
 
 ## GitHub Statistics
 
-<p align="center">
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FINitenet&show_icons=true&hide_border=true"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FINitenet&theme=github"/>
 
-<img height="170"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=FINitenet&layout=compact&hide_border=true"/>
-</p>
-
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FINitenet&theme=default" width="95%" alt="GitHub contribution summary">
-
-</div>
-
----
 
 ## Contact
 
