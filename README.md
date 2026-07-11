@@ -1,4 +1,4 @@
-```markdown
+
 <div align="center">
 
 <img src="./assets/banner.png" width="100%" alt="Yuchen Cai GitHub profile banner">
@@ -310,4 +310,3 @@ Research topics include:
 Thanks for visiting.
 
 </div>
-```
